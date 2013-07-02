@@ -1,3 +1,4 @@
 Cogito ergo sum
 Edo ergo sum
 Wassup ChCh?
+We are learning git!
